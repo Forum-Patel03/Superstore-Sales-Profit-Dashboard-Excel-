@@ -32,34 +32,34 @@ The Excel workbook is organized into the following sections:
 
 1. Orders (Raw Data)
 
-Contains the original transactional sales dataset used for analysis.
+  Contains the original transactional sales dataset used for analysis.
 
 2. Pivot Tables
 
-Several pivot tables were created to summarize the data for visualization.
-These sheets support the charts used in the dashboard.
-
-Examples include:
-
-Sales Analysis by Region
-
-Sales Analysis by Segment
-
-Profit by Category
-
-Profit by Region
-
-Profit by Segment
+  Several pivot tables were created to summarize the data for visualization.
+  These sheets support the charts used in the dashboard.
+  
+  Examples include:
+  
+  Sales Analysis by Region
+  
+  Sales Analysis by Segment
+  
+  Profit by Category
+  
+  Profit by Region
+  
+  Profit by Segment
 
 3. Dashboard Sheets
 
-The main visual analysis is presented in:
-
-Sales Analysis
-
-Profit Analysis
-
-These sheets display charts that summarize key business metrics.
+  The main visual analysis is presented in:
+  
+  Sales Analysis
+  
+  Profit Analysis
+  
+  These sheets display charts that summarize key business metrics.
 
 # Analysis Included
 
